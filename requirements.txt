@@ -5,3 +5,5 @@ langchain
 python-box
 streamlit
 langchain_community
+pypdf2
+diskcache
